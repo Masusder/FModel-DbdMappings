@@ -135,8 +135,12 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.2.2/5.4.4-2787967+++DeadByDaylight+Maple_HF2-DeadByDaylight.usmap",
     "fileName": "DBD-9.2.2.usmap"
   },
+  "9.2.3": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.2.3/5.4.4-2806222+++DeadByDaylight+Maple_HF3-DeadByDaylight.usmap",
+    "fileName": "DBD-9.2.3.usmap"
+  },
   "latest": {
-    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.2.2/5.4.4-2787967+++DeadByDaylight+Maple_HF2-DeadByDaylight.usmap",
-    "fileName": "DBD-9.2.2.usmap"
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.2.3/5.4.4-2806222+++DeadByDaylight+Maple_HF3-DeadByDaylight.usmap",
+    "fileName": "DBD-9.2.3.usmap"
   }
 }
