@@ -151,8 +151,12 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.3.2/5.4.4-2938806+++DeadByDaylight+Omelet_HF2-DeadByDaylight.usmap",
     "fileName": "DBD-9.3.2.usmap"
   },
+    "9.4.0_ptb": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.4.0_ptb/5.4.4-2973493+++DeadByDaylight+Poutine_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-9.4.0_PTB.usmap"
+  },
   "latest": {
-    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.3.2/5.4.4-2938806+++DeadByDaylight+Omelet_HF2-DeadByDaylight.usmap",
-    "fileName": "DBD-9.3.2.usmap"
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.4.0_ptb/5.4.4-2973493+++DeadByDaylight+Poutine_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-9.4.0_PTB.usmap"
   }
 }
