@@ -167,8 +167,12 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.4.2/5.4.4-3078868+++DeadByDaylight+Poutine_HF2-DeadByDaylight.usmap",
     "fileName": "DBD-9.4.2.usmap"
   },
+    "9.5.0_ptb": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.5.0_ptb/5.4.4-3126592+++DeadByDaylight+Quiche_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-9.5.0_PTB.usmap"
+  },
   "latest": {
-    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.4.2/5.4.4-3078868+++DeadByDaylight+Poutine_HF2-DeadByDaylight.usmap",
-    "fileName": "DBD-9.4.2.usmap"
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.5.0_ptb/5.4.4-3126592+++DeadByDaylight+Quiche_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-9.5.0_PTB.usmap"
   }
 }
