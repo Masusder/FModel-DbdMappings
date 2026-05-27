@@ -195,8 +195,16 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.6.1/5.6.1-3304780+++DeadByDaylight+Ramen_HF1-DeadByDaylight.usmap",
     "fileName": "DBD-9.6.1.usmap"
   },
+    "9.6.2": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.6.2/5.6.1-3329453+++DeadByDaylight+Ramen_HF2-DeadByDaylight.usmap",
+    "fileName": "DBD-9.6.2.usmap"
+  },
+    "10.0.0_ptb": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.0.0_ptb/5.6.1-3379933+++DeadByDaylight+Sushi_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-10.0.0_PTB.usmap"
+  },
   "latest": {
-    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.6.1/5.6.1-3304780+++DeadByDaylight+Ramen_HF1-DeadByDaylight.usmap",
-    "fileName": "DBD-9.6.1.usmap"
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.0.0_ptb/5.6.1-3379933+++DeadByDaylight+Sushi_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-10.0.0_PTB.usmap"
   }
 }
