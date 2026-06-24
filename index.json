@@ -207,8 +207,12 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.0.0/5.6.1-3420587+++DeadByDaylight+Sushi_REL-DeadByDaylight.usmap",
     "fileName": "DBD-10.0.0.usmap"
   },
+    "10.0.1": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.0.1/5.6.1-3454504+++DeadByDaylight+Sushi_HF1-DeadByDaylight.usmap",
+    "fileName": "DBD-10.0.1.usmap"
+  },
   "latest": {
-    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.0.0/5.6.1-3420587+++DeadByDaylight+Sushi_REL-DeadByDaylight.usmap",
-    "fileName": "DBD-10.0.0.usmap"
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.0.1/5.6.1-3454504+++DeadByDaylight+Sushi_HF1-DeadByDaylight.usmap",
+    "fileName": "DBD-10.0.1.usmap"
   }
 }
