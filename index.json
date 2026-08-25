@@ -223,8 +223,12 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.1.0_ptb/5.7.4-3597811+++DeadByDaylight+Udon_PTB-DeadByDaylight.usmap",
     "fileName": "DBD-10.1.0_PTB.usmap"
   },
+  "10.1.0": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.1.0/5.7.4-3646868+++DeadByDaylight+Udon_REL-DeadByDaylight.usmap",
+    "fileName": "DBD-10.1.0.usmap"
+  },
   "latest": {
-    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.1.0_ptb/5.7.4-3597811+++DeadByDaylight+Udon_PTB-DeadByDaylight.usmap",
-    "fileName": "DBD-10.1.0_PTB.usmap"
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/10.1.0/5.7.4-3646868+++DeadByDaylight+Udon_REL-DeadByDaylight.usmap",
+    "fileName": "DBD-10.1.0.usmap"
   }
 }
